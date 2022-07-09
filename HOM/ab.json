@@ -16,7 +16,7 @@
 {"key":"spider_IKan","name":"💖爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_biubiu_在线之家","name":"📀在线(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XB/zxzj.json"},
 {"key":"300看世界","name":"🐜虫虫(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://300ys.xyz/mogai_api.php/v1.vod"},
-{"key":"csp_Kmys","name":"🐯酷猫(聚)","type": 1,"api": "https://www.pcms10.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"酷猫影视","name":"🐯酷猫(聚)","type":1,"api":"https://www.pgcms10.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"mjxq_spider","name":"🌏美剧星球(SP)","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"🚗Cokemv(SP)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Buka","name":"🐌不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
@@ -27,7 +27,6 @@
 {"key":"csp_GitCafe","name":"📜纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_AliPanSou","name":"🐱盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_Auete","name":"🐼Auete(SP)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-
 {"key":"csp_biubiu_555电影","name":"🎁555电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XB/555dy.json"},
 {"key":"csp_biubiu_骚火电影","name":"🔥骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XB/shdy.json"},
 {"key":"csp_biubiu_LIBVIO","name":"🔷LIBVIO(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XB/LIBVIO.json"},
@@ -120,7 +119,6 @@
 {"key":"兔子窝","name":"兔子窝(聚)","type":1,"api":"http://cj.huimaojia.com:12345/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"哇可可影视","name":"哇可可影视(聚)","type":1,"api":"https://www.zwcoco.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"共青春","name":"共青春(聚)","type":1,"api":"https://gqcyy.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"酷猫影视","name":"酷猫影视(聚)","type":1,"api":"https://www.pgcms10.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"胖猫影视","name":"胖猫影视(聚)","type":1,"api":"http://www.pangmaotv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"嘛哩嘛哩","name":"嘛哩嘛哩(聚)","type":1,"api":"https://malimali3.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"categories":["国产动漫","日韩动漫","欧美动漫","港台动漫"]},
 {"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
