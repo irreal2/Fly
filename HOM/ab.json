@@ -76,13 +76,13 @@
 
 #
 #三方聚合
-{"key":"影图","name":"💖影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"趣看","name":"💖趣看(聚)","type":1,"api":"https://qkmp4.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"39影视","name":"💖三九(聚)","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"嗨哆咪影视","name":"💖嗨哆咪(聚)","type":1,"api":"http://hdmys1.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"速影","name":"💖速影(聚)","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":0,"quickSearch":0},
-{"key":"飘花电影","name":"💖飘花(聚)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"海外电影","name":"💖海外(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
+{"key":"影图","name":"✨影图(聚)","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"趣看","name":"✨趣看(聚)","type":1,"api":"https://qkmp4.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"39影视","name":"✨三九(聚)","type":1,"api":"https://www.39kan.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"速影","name":"✨速影(聚)","type":1,"api":"https://速影128.xyz/inc/apijson.php","searchable":0,"quickSearch":0},
+{"key":"飘花电影","name":"✨飘花(聚)","type":1,"api":"http://www.zzrhgg.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"海外电影","name":"✨海外(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"嗨哆咪影视","name":"✨嗨哆咪(聚)","type":1,"api":"http://hdmys1.com/api.php/provide/vod/","searchable":1,"quickSearch":1}
 ],
 
 "parses":[
