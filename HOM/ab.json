@@ -1,6 +1,6 @@
 
 {
-"spider":"clan://Download/T0711/0706.jar",
+"spider":"https://gitcode.net/Miel04/hom/-/raw/master/JAR/0706.jar",
 
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9NaWVsMDQvaG9tLy0vcmF3L21hc3Rlci9MaXZlL2FiLnR4dA=="]}]}],
