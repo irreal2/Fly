@@ -5,16 +5,18 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9NaWVsMDQvaG9tLy0vcmF3L21hc3Rlci9MaXZlL2FiLnR4dA=="]}]}],
 
 "sites":[
+
 {"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_CZSPP","name":"🚬厂长(SP)","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_xpath_xqmi","name":"💮小强(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XP/xqmi.json"},
 {"key":"csp_DY1990","name":"💙九零(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_lezhutv","name":"🐷乐猪(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XP/lezhutv.json"},
 {"key":"csp_biubiu_在线之家","name":"🐬在线(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XB/zxzj.json"},
-{"key": "多多","name": "💮多多(V2)","type": 1,"api": "https://a.7dyu.cn/api.php/provide/vod/from/ddzy/","playUrl": "json:http://qiqi.520say.cn/json/dd.php?url=","searchable": 1,"filterable": 1,"categories":[]},
+{"key":"诺讯官采","name":"💞诺讯(V2)","type": 1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xpath_pianku","name":"📀片库(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XP/pianku.json"},
 {"key": "csp_XBiubiubiubiu_蓝光影视","name": "💿蓝光(XB)","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/Miel04/hom/-/raw/master/XB/lgys.json"}, 
 {"key":"300看世界","name":"⛄虫虫(v2)","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://300ys.xyz/mogai_api.php/v1.vod"},
@@ -22,7 +24,6 @@
 {"key":"csp_biubiu_特狗影视","name":"🐶特狗(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XB/tgys.json"},
 {"key":"橘猫影视","name":"💗橘猫(聚)","type":1,"api":"http://www.zitv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"MBO影视","name":"🌟MBO(聚)","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
-{"key":"极速影视","name": "𝙌极速(V2)","type":1,"api": "https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable": 1,"quickSearch":1,"filterable": 0,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"csp_Buka","name":"🐌不卡(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XB/buka.json"},
 {"key":"csp_xpath_jbb","name":"🎁剧白白(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XP/jubaibai.json"},
 {"key":"csp_xpath_dandanzan10","name":"🍙蛋蛋赞(XP)","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XP/dandanzan10.json"},
@@ -56,6 +57,8 @@
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XP/kuqimv.json"},
 {"key":"push_agent","name":"🍭推送（阿里）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
 
+//{"key": "多多","name": "💮多多(V2)","type": 1,"api": "https://a.7dyu.cn/api.php/provide/vod/from/ddzy/","playUrl": "json:http://qiqi.520say.cn/json/dd.php?url=","searchable": 1,"filterable": 1,"categories":[]},
+//{"key":"极速影视","name": "𝙌极速(V2)","type":1,"api": "https://www.ddzyz1.com/api.php/provide/vod/","playUrl":"","searchable": 1,"quickSearch":1,"filterable": 0,"categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 //{"key":"csp_Buka","name":"🐌不卡(SP)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_DiDuan","name":"🎬低端(SP)","api":"csp_DiDuan","type":3,"searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"csp_Kmys","name":"🐯酷猫(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
