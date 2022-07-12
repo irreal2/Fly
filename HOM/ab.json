@@ -1,6 +1,6 @@
 
 {
-"spider":"https://gitcode.net/Miel04/hom/-/raw/master/JAR/0706.jar",
+"spider":"https://gitcode.net/Miel04/hom/-/raw/master/JAR/0710.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9NaWVsMDQvaG9tLy0vcmF3L21hc3Rlci9MaXZlL2FiLnR4dA=="]}]}],
 
@@ -13,6 +13,8 @@
 {"key":"csp_LiteApple","name":"🍎苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"spider_IKan","name":"💖爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_xpath_xqmi","name":"💮小强(XP)","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XP/xqmi.json"},
+{"key":"csp_Kmys","name":"🐯酷猫(SP)","type": 3,"api": "csp_Kmys","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"city电影","name":"☂城市(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XB/citydy.js"},
 {"key":"csp_DY1990","name":"💙九零(SP)","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_lezhutv","name":"🐷乐猪(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XP/lezhutv.json"},
 {"key":"csp_biubiu_在线之家","name":"🐬在线(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XB/zxzj.json"},
