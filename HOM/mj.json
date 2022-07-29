@@ -171,7 +171,17 @@
       "filterable": 1,
       "ext": "",
 	  "jar": "https://gitcode.net/Miel04/hom/-/raw/master/JAR/0706.jar"
-	},   
+	},
+	{
+     "key": "csp_Imaple",
+     "name": "🍵茶杯(搜)",
+     "type": 1,
+     "api": "http://120.27.202.86:5252/cupfox.php?key=cupfox",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 0,
+     "playUrl": "json:http://120.27.202.86:8080/lanlan?key=tt888666&url="
+    },   
     {
       "key": "神马影院",
       "name": "🐴神马(SP)",
