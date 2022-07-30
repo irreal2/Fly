@@ -169,10 +169,9 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "",
-	  "jar": "https://gitcode.net/Miel04/hom/-/raw/master/JAR/0706.jar"
-	},
-	{
+      "ext": ""
+    },
+    {
      "key": "茶杯狐",
      "name": "🍵茶杯(搜)",
      "type": 1,
