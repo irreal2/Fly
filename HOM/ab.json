@@ -76,7 +76,7 @@
 {"key":"csp_biubiu_斗鱼","name":"🐠斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XB/douyu.json"},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XP/huya2.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitcode.net/Miel04/hom/-/raw/master/XP/kuqimv.json"},
-{"key":"push_agent","name":"🍭推送（阿里磁力）","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"push_agent","name":"🍭推送（阿里磁力）","type":3,"api":"csp_PushAgent2","searchable":0,"quickSearch":0,"filterable":0},
 //{"key":"293","name":"💋293(SP)","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 //{"key": "红牛","name":"🈲红牛(SP)","type": 1,"api": "https://www.hongniuzy2.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1}, 
 #
